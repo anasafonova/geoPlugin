@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: ot.dispatcher:dispatcher-sdk_2.11:1.1.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/local/ot.dispatcher/dispatcher-sdk_2.11/1.1.0/jars/dispatcher-sdk_2.11.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/local/ot.dispatcher/dispatcher-sdk_2.11/1.1.0/docs/dispatcher-sdk_2.11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/local/ot.dispatcher/dispatcher-sdk_2.11/1.1.0/srcs/dispatcher-sdk_2.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

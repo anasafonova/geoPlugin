@@ -1,0 +1,33 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/anastasiia/IdeaProjects/geoPlugin/target/scala-2.11/geoplugin_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ot[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anastasiia/IdeaProjects/geoPlugin/target/scala-2.11/classes/ot[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ot/dispatcher[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anastasiia/IdeaProjects/geoPlugin/target/scala-2.11/classes/ot/dispatcher[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ot/dispatcher/plugins[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anastasiia/IdeaProjects/geoPlugin/target/scala-2.11/classes/ot/dispatcher/plugins[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ot/dispatcher/plugins/externaldata[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anastasiia/IdeaProjects/geoPlugin/target/scala-2.11/classes/ot/dispatcher/plugins/externaldata[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ot/dispatcher/plugins/externaldata/internals[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anastasiia/IdeaProjects/geoPlugin/target/scala-2.11/classes/ot/dispatcher/plugins/externaldata/internals[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ot/dispatcher/plugins/externaldata/internals/QuotesParser$$anonfun$keywordsParser$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anastasiia/IdeaProjects/geoPlugin/target/scala-2.11/classes/ot/dispatcher/plugins/externaldata/internals/QuotesParser$$anonfun$keywordsParser$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ot/dispatcher/plugins/externaldata/internals/QuotesParser$$anonfun$keywordsParser$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anastasiia/IdeaProjects/geoPlugin/target/scala-2.11/classes/ot/dispatcher/plugins/externaldata/internals/QuotesParser$$anonfun$keywordsParser$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ot/dispatcher/plugins/externaldata/internals/QuotesParser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anastasiia/IdeaProjects/geoPlugin/target/scala-2.11/classes/ot/dispatcher/plugins/externaldata/internals/QuotesParser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ot/dispatcher/plugins/geodata[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anastasiia/IdeaProjects/geoPlugin/target/scala-2.11/classes/ot/dispatcher/plugins/geodata[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ot/dispatcher/plugins/geodata/commands[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anastasiia/IdeaProjects/geoPlugin/target/scala-2.11/classes/ot/dispatcher/plugins/geodata/commands[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ot/dispatcher/plugins/geodata/commands/geoTransform.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anastasiia/IdeaProjects/geoPlugin/target/scala-2.11/classes/ot/dispatcher/plugins/geodata/commands/geoTransform.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ot/dispatcher/plugins/geodata/commands/geoTransform$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anastasiia/IdeaProjects/geoPlugin/target/scala-2.11/classes/ot/dispatcher/plugins/geodata/commands/geoTransform$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ot/dispatcher/plugins/geodata/commands/geoTransform$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anastasiia/IdeaProjects/geoPlugin/target/scala-2.11/classes/ot/dispatcher/plugins/geodata/commands/geoTransform$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ot/dispatcher/plugins/geodata/commands/geoTransform$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anastasiia/IdeaProjects/geoPlugin/target/scala-2.11/classes/ot/dispatcher/plugins/geodata/commands/geoTransform$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ot/dispatcher/plugins/geodata/commands/geoTransform$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anastasiia/IdeaProjects/geoPlugin/target/scala-2.11/classes/ot/dispatcher/plugins/geodata/commands/geoTransform$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
