@@ -1,3 +1,1 @@
-ReadFile="INFO"
-WriteFile="INFO"
-SQLRead="INFO"
+convertGeo="DEBUG"

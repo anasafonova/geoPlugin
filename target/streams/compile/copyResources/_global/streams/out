@@ -1,2 +1,4 @@
 [0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
-[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/anastasiia/IdeaProjects/geoPlugin/src/main/resources/plugin.conf,/home/anastasiia/IdeaProjects/geoPlugin/target/scala-2.11/classes/plugin.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/anastasiia/IdeaProjects/geoPlugin/src/main/resources/commands.properties,/home/anastasiia/IdeaProjects/geoPlugin/target/scala-2.11/classes/commands.properties)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/anastasiia/IdeaProjects/geoPlugin/src/main/resources/loglevel.properties,/home/anastasiia/IdeaProjects/geoPlugin/target/scala-2.11/classes/loglevel.properties)[0m

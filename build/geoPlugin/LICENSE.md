@@ -32,5 +32,3 @@ https://www.gnu.org/licenses/agpl-3.0.html
 8. Other conditions  
 8.1. This license agreement and all relations related to the use of the Program are subject to the laws of the Russian Federation and any claims or claims arising from this License or use of the Program must be filed and considered in court at the location of the Copyright holder.  
 8.2. The Copyright holder may provide the User with translation of this License from Russian into other languages, but in case of conflict between the terms of the License in Russian and its translation, only the Russian-language version of the License has legal force.  
-  
-
